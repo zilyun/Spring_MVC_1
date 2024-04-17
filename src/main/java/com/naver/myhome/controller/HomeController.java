@@ -8,6 +8,6 @@ public class HomeController {
 	// http://localhost:8088/hello
 	@GetMapping("/hello")
 	public String hello() {
-		return "hello Spring~";
+		return "hello Spring~ L3";
 	}
 }
